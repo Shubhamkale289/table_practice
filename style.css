@@ -1,0 +1,12 @@
+#box {
+    background-color: rgb(188, 114, 114);
+    height: 100px;
+    width: 200px;
+}
+
+.child1{
+    background-color: blueviolet;
+}
+.child2{
+    background-color: green;
+}
